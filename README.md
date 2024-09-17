@@ -33,15 +33,17 @@ $ npm install
 $ npm update
 $ pkg install yarn -y
 $ yarn install
+```
 ---------
 
 ```bash
 [ LINK COPY INSTALLING FOR TERMINAL ]
 git clone https://github.com/jbotMD/jbot-v5.0
+```
 ---------
 
 
-### ```LINK DOWNLOAD MEDIAFIRE```
+### LINK DOWNLOAD MEDIAFIRE
 |--------|--------|
 | **jbotMD v5.0** |[here](https://www.mediafire.com/jbotMD-v5.0) |
 | **jbotMD v5.3** | [here](https://www.mediafire.com/jbotMD-v5.3) |
