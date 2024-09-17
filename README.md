@@ -43,13 +43,6 @@ git clone https://github.com/jbotMD/jbot-v5.0
 ---------
 
 
-### LINK DOWNLOAD MEDIAFIRE
-|--------|--------|
-| **jbotMD v5.0** |[here](https://www.mediafire.com/jbotMD-v5.0) |
-| **jbotMD v5.3** | [here](https://www.mediafire.com/jbotMD-v5.3) |
----------
-
-
 ### Thanks To
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets/Baileys)
