@@ -1,13 +1,6 @@
 <p align="center">
-    <img src="./thumbnail.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-<h1 align="center">jbotMD Bot Whatsapp MultiDevice</h1>
-</p>
-
-<p>
-<h2 align="center">
-<a href="https://jbotMD.github.io"><img title="GitPages"></a>
-</h2>
+  <img src="./thumbnail.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+  <h1 align="center">jbotMD Bot Whatsapp MultiDevice</h1>
 </p>
 
 
@@ -40,7 +33,9 @@ $ npm install
 $ npm update
 $ pkg install yarn -y
 $ yarn install
+---------
 
+```bash
 [ LINK COPY INSTALLING FOR TERMINAL ]
 git clone https://github.com/jbotMD/jbot-v5.0
 ---------
